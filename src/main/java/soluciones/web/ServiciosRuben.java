@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.ruben.web;
+package soluciones.web;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

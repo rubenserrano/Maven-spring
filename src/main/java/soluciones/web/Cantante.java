@@ -1,5 +1,5 @@
 
-package com.ruben.web;
+package soluciones.web;
 
 
 public class Cantante implements Persona{

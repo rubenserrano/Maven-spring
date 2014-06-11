@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.ruben.web;
+package soluciones.web;
 
 import java.io.IOException;
 import java.io.PrintWriter;

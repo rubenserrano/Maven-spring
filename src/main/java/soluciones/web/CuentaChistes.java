@@ -4,14 +4,16 @@
  * and open the template in the editor.
  */
 
-package com.ruben.web;
+package soluciones.web;
 
 /**
  *
  * @author Ruben
  */
-public interface Persona {
-    String ejecutarGracia();
-    
+public class CuentaChistes implements Persona {
+
+    public String ejecutarGracia() {
+return "Era una vez  pepito que comio";
+    }
     
 }
